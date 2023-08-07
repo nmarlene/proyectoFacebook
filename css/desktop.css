@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  max-width: 850px;
+  gap: 8px;
+  margin: 50px;
+}
+
+img {
+  margin-left: -20px;
+  width: 250px;
+}
+.contend-input {
+  width: 300px;
+}
+.paf1 {
+  text-align: left;
+  font-size: 2rem;
+}
+.paf2 {
+  position: absolute;
+  margin-top: 260px;
+  text-align: center;
+  width: 300px;
+}
